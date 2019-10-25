@@ -1,0 +1,31 @@
+.navigation{
+    font-size: 20px;
+    float: left;
+    background-color:gray;
+    color: blue;
+}
+
+a.lien{
+    position: relative;
+    top: 6px;
+    font-size: 20px;
+    float: left;
+}
+.image{
+    position: relative;
+    top: 10px;
+}
+a.navi{
+    color: blue;
+}
+
+a button.bouton{
+    color: white;
+    background-color: orange;
+    border: 1px solid white;
+}
+a button.bouto{
+    color:blue;
+    border: 1px solid orange;
+    padding: 5px;
+}
